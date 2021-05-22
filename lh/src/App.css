@@ -1,0 +1,201 @@
+.App {
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
+.men{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+
+.navbar {
+  	width: 90%;
+  	position: sticky;
+  	margin: 10px 0px 0px 75px;
+  	font-size: 18px;
+}
+
+.actscr {
+    border-bottom: 1px solid #333;
+}
+
+.group_1{
+	width: 60%;
+	margin: 0px 100px 0px 255px;
+	float: center;
+  	display: flex;
+    font-size: 16px;
+}
+
+.App-video {
+	display: flex;
+	justify-content: center;
+}
+
+.lpfir{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.imging1{
+	height: 350px;
+  	width: 800px;
+}
+
+.card{
+	height: 200px;
+  	width: 275px;
+  	border: none;
+}
+
+.group_2{
+	width: 90%;
+	margin: 0px 0px 0px 75px;
+	float: center;
+  	display: flex;
+    font-size: 16px;
+}
+
+.card-body{
+	background-color: #F9FAED;
+}
+
+.group_2_2{
+	width: 70%;
+	margin: 0px 100px 0px 215px;
+	float: center;
+  	display: flex;
+    font-size: 16px;
+}
+
+.imgside1{
+	width: 450px;
+	float: right;
+}
+
+.imgside2{
+	width: 425px;
+	float: left;
+}
+
+.imgside3{
+	width: 425px;
+	float: right;
+}
+
+.cardb{
+  	width: 450px;
+  	border: none;
+}
+
+.card-group{
+	width: 80%;
+	margin: 0px 0px 0px 225px;
+	float: center;
+  	display: flex;
+}
+
+.group_3{
+	width: 60%;
+	margin: 0px 100px 0px 255px;
+	float: center;
+  	display: flex;
+    font-size: 16px;
+}
+
+.imgg3{
+	width: 750px;
+	margin: 0px 0px 0px 10px;
+	float: center;
+}
+
+.group_3_3{
+	width: 60%;
+	margin: 0px 0px 0px 265px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.imgg4m{
+	width: 750px;
+	margin: 0px 0px 0px 280px;
+	float: center;
+}
+
+.group_4_1{
+	width: 60%;
+	margin: 0px 0px 0px 265px;
+}
+
+.imgg_4list{
+	width: 365px;
+	margin: 0px 30px 0px 160px;
+	float: left;
+}
+
+.ulstyle{
+	list-style: none;
+}
+
+.imgpk{
+	width: 200px;
+	float: right;
+}
+
+.group_4_2{
+	width: 60%;
+	margin: 0px 0px 0px 250px;
+}
+
+.myaccordion {
+  	max-width: 800px;
+  	margin: 50px auto;
+  	box-shadow: 0 0 1px rgba(0,0,0,0.1);
+  	border-width: 0;
+    border-top-width: 1px;
+}
+
+.imgdip{
+	width: 800px;
+	float: left;
+	margin: 0px 30px 0px 100px;
+} 
+
+.imgdip2{
+	max-width: 380px;
+	float: right;
+}
+
+.imgdip3{
+	max-width: 40px;
+	float: right;
+}
+
+.texdip{
+	margin: 0px 30px 0px 750px;	
+}
+
+.carddip{
+	height: 200px;
+  	width: 380px;
+  	margin: 0px 30px 0px 930px;	
+}
+
+.lifoot{
+	display:inline; 
+}
+
+.ulsty{
+	list-style: none;
+	overflow-x:hidden;
+	white-space:nowrap; 
+	height: 5em;
+	width: 100%;
+	justify-content: space-between;
+}
