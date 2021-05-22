@@ -36,29 +36,17 @@ function App() {
           </div>
           <div style={{backgroundColor: '#F9FAED'}}>
             <Group_1/> 
-          </div>
-          <div style={{backgroundColor: '#F9FAED'}}>
             <Group_2/>
-          </div>
-          <div style={{backgroundColor: '#F9FAED'}}>
             <Group_3/>
-          </div>
-          <div style={{backgroundColor: '#F9FAED'}}>
             <Group_4/>
-          </div>
-          <div style={{backgroundColor: '#F9FAED'}}>
             <Group_5/>
-          </div>
-          <div style={{backgroundColor: '#F9FAED'}}>
             <Group_6/>
+            <End/>
+            <Enddip/>
           </div>
           <div>
             <Group_7/>
-          </div>
-          <div>
             <End/>
-          </div>
-          <div>
             <Footer/>
           </div>
       </div>
